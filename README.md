@@ -22,8 +22,8 @@ Flutter (Channel stable, 2.10.2, locale pt-BR)
 	<tbody>
 		<tr>
 			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156842130-01a9e018-1df0-48b1-a664-c56b7f2fd32e.png" style="width: 290px height: 500px;" /></td>
-			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
-			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
+			<td><img alt="https://user-images.githubusercontent.com/31604881/156842379-e965b0ac-96d1-4eb2-a1bd-479621888660.png" src="" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156842391-85705d79-f73e-4bb8-9a44-c50c932ea27d.png" style="width: 290px height: 500px;" /></td>
         </tr>        
 	</tbody>
 </table>
