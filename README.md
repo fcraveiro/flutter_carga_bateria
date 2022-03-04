@@ -21,9 +21,9 @@ Flutter (Channel stable, 2.10.2, locale pt-BR)
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156709462-cf3b20aa-6f07-4a29-99d5-f61fc75f51ca.png" style="width: 290px height: 500px;" /></td>
-			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156709474-d469669d-48a3-4e37-bae3-7d1c1a8587ac.png" style="width: 290px height: 500px;" /></td>
-			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156709489-4be7bc82-031b-437f-a1a9-7692d5cbcc9d.png" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156842130-01a9e018-1df0-48b1-a664-c56b7f2fd32e.png" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
         </tr>        
 	</tbody>
 </table>
